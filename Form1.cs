@@ -18,6 +18,7 @@ namespace AoTGame
 
     public partial class Form1 : Form
     {
+        //test comment for initial GitHub Commit!
         bool jumping = false;
         int pipeSpeed = 10;
         int gravity = 5;
